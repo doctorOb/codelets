@@ -52,37 +52,21 @@ def compute_optimal_tuning(target,current):
 	within the minimum number of half step modifications"""
 	target = target.split(' ')
 	current = current.split(' ')
-	initial = []
-	abs_initial = []
-
-	for i in range(0,len(target)):
-		distance = calculate_note_distance(current[i],target[i])
-		abs_initial.append(abs(distance))
-		initial.append(distance)
-
-	total_modifications = sum(abs_initial)
+	
+	initial = [calculate_note_distance(current[i],target[i]) for i in range(0,6)]
+	total_modifications = reduce(lambda x,y: abs(x) + abs(y), initial)
+	
 	winner = []
 	min_sum = total_modifications
 	for i in initial:
 		mods = abs(i)
-		tmp = []
-		for i in initial:
-			if i > 0:
-				tmp.append(abs(i - mods))
-			else:
-				tmp.append(abs(i + mods))
+		tmp = [abs(i - mods) if i > 0 else abs(i + mods) for i in initial]
 		tsum = sum(tmp)
 		if tsum < min_sum:
 			min_sum = tsum
 			winner = tmp
-
-	ret = []
-	for i in range(0,len(current)):
-		t = transpose(note=current[i],distance=winner[i])
-		print "{} -> {} ({}) modifications".format(current[i],t,winner[i])
-		ret.append(t)
-
-	
+	#transpose the current tuning into the optimal one
+	ret = [transpose(note=current[i],distance=winner[i]) for i in range(0,6)] 
 	return " ".join(ret)
 
 if __name__ == '__main__':
