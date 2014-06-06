@@ -1,5 +1,13 @@
 """A soon to be command line utility, which produces the best tuning to change to given you're current tuning, 
-and the desired one."""
+and the desired one.
+
+More concisely:
+
+If you are in Tuning A, and want to achieve Tuning B (but don't care about the exact key tuning B is in), then 
+this program will determine the most optimal Tuning C, which conforms to B (but is raised or lowered uniformly by
+a number of half steps), and does so in the fewest amount of half step modifications done to the guitar. 
+
+Motivation: I change between alternate tunings, and I don't like to leap up multiple steps per string each time"""
 
 import string
 import sys
