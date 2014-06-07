@@ -47,7 +47,7 @@ def compute_optimal_tuning(target,current):
   target = target.split(' ')
   current = current.split(' ')
 
-  initial = [calculate_note_distance(current[i],target[i]) for i in range(0,6)]
+  initial = [calculate_note_distance(current[i],target[i]) for i in range(min(len(current), len(target)))]
   total_modifications = reduce(lambda x,y: abs(x) + abs(y), initial)
 
   winner = []
@@ -60,7 +60,7 @@ def compute_optimal_tuning(target,current):
       min_sum = tsum
       winner = tmp
   #transpose the current tuning into the optimal one
-  ret = [transpose(note=current[i],distance=winner[i]) for i in range(0,6)]
+  ret = [transpose(note=current[i],distance=winner[i]) for i in range(min(len(current), len(target)))]
   return " ".join(ret)
 
 if __name__ == '__main__':
