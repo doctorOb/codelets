@@ -6,19 +6,23 @@ I've distilled the episodes I made into a more accesible list for easier accesib
 
 Most of these couldn't even charitably be considered "news".
 
-##Killdozer
+Killdozer
 [Part III](https://www.podcastdotcom.net/early-bird-news/2019/3/10/s2e68-killdozer-iii)
+
 [Part II](https://www.podcastdotcom.net/early-bird-news/2019/3/3/s2e61-killdozer-ii)
+
 [Part I](https://www.podcastdotcom.net/early-bird-news/2019/2/24/s2e54-killdozer-i)
+
 [Teaser](https://www.podcastdotcom.net/early-bird-news/2019/2/16/s2e48-teaser-frontier-justice)
 
-##Peak Television
+Peak Television
 [Part II](https://www.podcastdotcom.net/early-bird-news/2019/2/10/s2e41-peak-television-pt-ii)
+
 [Part I](https://www.podcastdotcom.net/early-bird-news/2019/1/27/s2e27-peak-television-pt-i)
+
 [Teaser](https://www.podcastdotcom.net/early-bird-news/2019/1/20/s2e20-teaser-peak-television)
 
-##Super Bowl XLIII
-[Full](https://www.podcastdotcom.net/early-bird-news/2019/2/3/s2e34-super-bowl-xliii)
+Super Bowl XLIII https://www.podcastdotcom.net/early-bird-news/2019/2/3/s2e34-super-bowl-xliii)
 
 Louie Louie
 https://www.podcastdotcom.net/early-bird-news/2019/1/13/1-13-19-louie-louie
@@ -30,8 +34,9 @@ Christmesque Special
 https://www.podcastdotcom.net/early-bird-news/2018/12/23/12-23-18-christmesque-special
 
 The Auto Pen
-II - https://www.podcastdotcom.net/early-bird-news/2018/12/16/12-16-18-jeffersons-favorite-pen-pt-ii
-I - https://www.podcastdotcom.net/early-bird-news/2018/12/9/12-9-18-jeffersons-favorite-pen-pt-i
+[Part II](https://www.podcastdotcom.net/early-bird-news/2018/12/16/12-16-18-jeffersons-favorite-pen-pt-ii)
+
+[Part I](https://www.podcastdotcom.net/early-bird-news/2018/12/9/12-9-18-jeffersons-favorite-pen-pt-i)
 
 The Kilogram
 https://www.podcastdotcom.net/early-bird-news/2018/12/2/12-2-18-the-weight-is-over
@@ -43,8 +48,9 @@ Whale Earwax
 https://www.podcastdotcom.net/early-bird-news/2018/11/18/11-18-18-something-in-their-ears
 
 Counterfeiting
-II - https://www.podcastdotcom.net/early-bird-news/2018/11/11/11-11-18-the-greatest-get-rich-quick-scheme-ii
-I - https://www.podcastdotcom.net/early-bird-news/2018/11/4/11-4-18-the-greatest-get-rich-quick-scheme-pt-i
+[Part II](https://www.podcastdotcom.net/early-bird-news/2018/11/11/11-11-18-the-greatest-get-rich-quick-scheme-ii)
+
+[Part I](https://www.podcastdotcom.net/early-bird-news/2018/11/4/11-4-18-the-greatest-get-rich-quick-scheme-pt-i)
 
 Trivial Bits
 Bore Hotel - https://www.podcastdotcom.net/early-bird-news/2018/10/28/10-28-18-trivial-bits-the-deepest-hole
@@ -107,10 +113,14 @@ Hays Code Hollywood
 https://www.podcastdotcom.net/early-bird-news/2018/6/10/6-10-18-whowhatwhenwhyhow-the-hays-code
 
 Super Sonic Travel
-IV - https://www.podcastdotcom.net/early-bird-news/2018/5/27/5-27-18-untitled-supersonic-travel-expose-pt-iv
-III - https://www.podcastdotcom.net/early-bird-news/2018/5/6/5-6-18-untitled-supersonic-travel-expose-pt-iii
-II - https://www.podcastdotcom.net/early-bird-news/2018/4/29/4-29-18-untitled-expose-on-supersonic-travel-pt-ii
-I - https://www.podcastdotcom.net/early-bird-news/2018/4/22/4-22-18-untitled-supersonic-travel-expose-pt1
+[Part IV](https://www.podcastdotcom.net/early-bird-news/2018/5/27/5-27-18-untitled-supersonic-travel-expose-pt-iv)
+
+[Part III](https://www.podcastdotcom.net/early-bird-news/2018/5/6/5-6-18-untitled-supersonic-travel-expose-pt-iii)
+
+[Part II](https://www.podcastdotcom.net/early-bird-news/2018/4/29/4-29-18-untitled-expose-on-supersonic-travel-pt-ii)
+
+[Part I](https://www.podcastdotcom.net/early-bird-news/2018/4/22/4-22-18-untitled-supersonic-travel-expose-pt1)
+
 
 
 Mothers Day
@@ -123,8 +133,9 @@ American Cheese Rant
 https://www.podcastdotcom.net/early-bird-news/2018/3/30/4-1-18-in-defense-of-processed-cheese
 
 Jupiter
-II - https://www.podcastdotcom.net/early-bird-news/2018/3/25/3-25-18-jovian-musings-pt-2-54
-I - https://www.podcastdotcom.net/early-bird-news/2018/3/18/3-18-18-jovian-musings-pt-1
+[Part II](https://www.podcastdotcom.net/early-bird-news/2018/3/25/3-25-18-jovian-musings-pt-2-54)
+
+[Part I](https://www.podcastdotcom.net/early-bird-news/2018/3/18/3-18-18-jovian-musings-pt-1)
 
 Lunaversary Teaser
 https://www.podcastdotcom.net/early-bird-news/2018/3/4/3-4-18-lunarversary-teaser
