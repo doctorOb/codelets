@@ -6,18 +6,18 @@ I've distilled the episodes I made into a more accesible list for easier accesib
 
 Most of these couldn't even charitably be considered "news".
 
-#Killdozer
+##Killdozer
 [Part III](https://www.podcastdotcom.net/early-bird-news/2019/3/10/s2e68-killdozer-iii)
 [Part II](https://www.podcastdotcom.net/early-bird-news/2019/3/3/s2e61-killdozer-ii)
 [Part I](https://www.podcastdotcom.net/early-bird-news/2019/2/24/s2e54-killdozer-i)
 [Teaser](https://www.podcastdotcom.net/early-bird-news/2019/2/16/s2e48-teaser-frontier-justice)
 
-#Peak Television
+##Peak Television
 [Part II](https://www.podcastdotcom.net/early-bird-news/2019/2/10/s2e41-peak-television-pt-ii)
 [Part I](https://www.podcastdotcom.net/early-bird-news/2019/1/27/s2e27-peak-television-pt-i)
 [Teaser](https://www.podcastdotcom.net/early-bird-news/2019/1/20/s2e20-teaser-peak-television)
 
-#Super Bowl XLIII
+##Super Bowl XLIII
 [Full](https://www.podcastdotcom.net/early-bird-news/2019/2/3/s2e34-super-bowl-xliii)
 
 Louie Louie
